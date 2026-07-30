@@ -1,3 +1,5 @@
+![CI](https://github.com/Gaddala9090/enterprise-rag-assistant/actions/workflows/ci.yml/badge.svg)
+
 # Enterprise RAG Assistant
 
 A Retrieval-Augmented Generation (RAG) system that answers questions over a set of documents using an LLM + vector search — built to mirror how enterprise document Q&A systems work in production.
